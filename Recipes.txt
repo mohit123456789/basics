@@ -6,4 +6,8 @@ Panner
 Rajma
 Chicken 
 
+
+Pasta
+Pizza
+
 Thanks
