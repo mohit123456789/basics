@@ -9,5 +9,3 @@ Chicken
 
 Pasta
 Pizza
-
-Thanks
